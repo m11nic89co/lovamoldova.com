@@ -1,2 +1,2 @@
 # lovamoldova.com
-hello@lovamoldova.com
+Email: online@lovamoldova.com
