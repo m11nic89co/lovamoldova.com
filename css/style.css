@@ -22,8 +22,19 @@ body {
   background-image: url(/img/LovaMoldovaMainImg1.png);
   background-position: center;
   background-repeat: no-repeat;
-  background-size: 30rem;
+  background-size: 50rem;
   background-color: #0E1420;
+}
+@media (max-width: 880px) {
+	body {
+		background-size: 90%;
+	}
+}
+
+@media (max-height: 600px) and (orientation: landscape) {
+	body {
+		background-size: 40%;
+	}
 }
 
 .cover-container {
